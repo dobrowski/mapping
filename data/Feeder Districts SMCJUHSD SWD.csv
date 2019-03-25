@@ -1,0 +1,20 @@
+CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,gradelevel,ChronicAbsenteeismRate,Suspension Rate (Total),CDSCode,Grade,ELA,Math
+27,65979,0000000,Monterey,Bradley Union Elementary,District Office,SD,4.3,0.0,27659790000000,NA,NA,NA
+27,65979,0135111,Monterey,Bradley Union Elementary,Uplift Monterey,SD,0.0,0.0,27659790135111,NA,NA,NA
+27,65979,0136010,Monterey,Bradley Union Elementary,Uplift California South Charter,SD,0.0,0.0,27659790136010,NA,NA,NA
+27,66035,0000000,Monterey,Greenfield Union Elementary,District Office,SD,16.8,13.6,27660350000000,8,0.00,0.00
+27,66035,6026116,Monterey,Greenfield Union Elementary,Mary Chapa Academy,SD,11.5,0.0,27660356026116,5,3.70,0.00
+27,66035,6089387,Monterey,Greenfield Union Elementary,Oak Avenue Elementary,SD,28.6,15.4,27660356089387,5,9.09,0.00
+27,66035,6111637,Monterey,Greenfield Union Elementary,Cesar Chavez Elementary,SD,27.8,3.7,27660356111637,NA,NA,NA
+27,66035,6111645,Monterey,Greenfield Union Elementary,Vista Verde Middle,SD,11.4,25.7,27660356111645,8,0.00,0.00
+27,66050,0000000,Monterey,King City Union,District Office,SD,16.2,6.7,27660500000000,8,4.65,0.00
+27,66050,0107292,Monterey,King City Union,King City Arts Magnet,SD,8.3,4.1,27660500107292,5,12.50,0.00
+27,66050,6026124,Monterey,King City Union,Chalone Peaks Middle,SD,16.3,18.5,27660506026124,8,4.88,0.00
+27,66050,6026132,Monterey,King City Union,Santa Lucia Elementary,SD,20.4,0.0,27660506026132,5,0.00,0.00
+27,66050,6106777,Monterey,King City Union,Del Rey Elementary,SD,15.6,0.0,27660506106777,5,2.78,0.00
+27,66167,0000000,Monterey,San Antonio Union Elementary,District Office,SD,18.2,13.6,27661670000000,NA,NA,NA
+27,66167,6026629,Monterey,San Antonio Union Elementary,San Antonio Elementary,SD,18.2,13.6,27661676026629,NA,NA,NA
+27,66175,0000000,Monterey,San Ardo Union Elementary,District Office,SD,15.8,0.0,27661750000000,NA,NA,NA
+27,66175,6026637,Monterey,San Ardo Union Elementary,San Ardo Elementary,SD,15.8,0.0,27661756026637,NA,NA,NA
+27,66183,0000000,Monterey,San Lucas Union Elementary,District Office,SD,7.7,0.0,27661830000000,NA,NA,NA
+27,66183,6026645,Monterey,San Lucas Union Elementary,San Lucas Elementary,SD,7.7,0.0,27661836026645,NA,NA,NA

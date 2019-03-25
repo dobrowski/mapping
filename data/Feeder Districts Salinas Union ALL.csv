@@ -1,0 +1,48 @@
+CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,gradelevel,ChronicAbsenteeismRate,Suspension Rate (Total),CDSCode,Grade,ELA,Math
+27,65961,0000000,Monterey,Alisal Union,District Office,GR46,6.4,1.5,27659610000000,6,35.23,18.71
+27,65961,0127456,Monterey,Alisal Union,Monte Bella Elementary,GR46,3.6,0.6,27659610127456,6,44.12,19.61
+27,65961,6025977,Monterey,Alisal Union,Alisal Community,GR46,2.8,0.8,27659616025977,6,34.34,19.19
+27,65961,6025985,Monterey,Alisal Union,Bardin Elementary,GR46,4.7,0.0,27659616025985,6,35.11,21.51
+27,65961,6025993,Monterey,Alisal Union,Fremont Elementary,GR46,8.0,0.9,27659616025993,6,29.85,14.18
+27,65961,6026009,Monterey,Alisal Union,Jesse G. Sanchez Elementary,GR46,8.8,2.3,27659616026009,6,28.97,11.72
+27,65961,6101802,Monterey,Alisal Union,Frank Paul Elementary,GR46,6.7,1.2,27659616101802,6,31.40,9.92
+27,65961,6106959,Monterey,Alisal Union,Virginia Rocca Barton Elementary,GR46,9.7,0.7,27659616106959,6,48.11,22.22
+27,65961,6109466,Monterey,Alisal Union,John E. Steinbeck Elementary,GR46,7.8,1.2,27659616109466,6,50.56,32.58
+27,65961,6113542,Monterey,Alisal Union,Cesar E. Chavez Elementary,GR46,6.8,2.3,27659616113542,6,24.82,14.18
+27,65961,6115232,Monterey,Alisal Union,Creekside Elementary,GR46,9.4,3.8,27659616115232,6,38.66,31.09
+27,65961,6117691,Monterey,Alisal Union,Oscar F. Loya Elementary,GR46,5.6,2.6,27659616117691,6,33.33,17.70
+27,65961,6119663,Monterey,Alisal Union,Oasis Charter Public,GR46,0.0,1.6,27659616119663,NA,NA,NA
+27,65961,6120273,Monterey,Alisal Union,"Dr. Martin Luther King, Jr. Academy",GR46,3.9,1.2,27659616120273,6,32.14,17.86
+27,66027,0000000,Monterey,Graves Elementary,District Office,GR46,5.9,0.0,27660270000000,NA,NA,NA
+27,66027,6026108,Monterey,Graves Elementary,Graves Elementary,GR46,5.9,0.0,27660276026108,NA,NA,NA
+27,66076,0000000,Monterey,Lagunita Elementary,District Office,GR78,0.0,0.0,27660760000000,6,72.73,45.45
+27,66076,6026140,Monterey,Lagunita Elementary,Lagunita Elementary,GR78,0.0,0.0,27660766026140,6,72.73,45.45
+27,66142,0000000,Monterey,Salinas City Elementary,District Office,GR46,8.0,3.1,27661420000000,6,34.21,18.95
+27,66142,0132407,Monterey,Salinas City Elementary,Boronda Elementary,GR13,6.6,1.9,27661420132407,NA,NA,NA
+27,66142,0108068,Monterey,Salinas City Elementary,Boronda Meadows,GR46,10.1,2.4,27661420108068,6,30.43,12.17
+27,66142,6026520,Monterey,Salinas City Elementary,El Gabilan Elementary,GR46,10.2,4.9,27661426026520,6,13.13,9.09
+27,66142,6026538,Monterey,Salinas City Elementary,Henry F. Kammann Elementary,GR46,7.8,3.6,27661426026538,6,31.48,14.68
+27,66142,6026546,Monterey,Salinas City Elementary,Lincoln Elementary,GR46,6.5,2.7,27661426026546,6,50.60,24.10
+27,66142,6026553,Monterey,Salinas City Elementary,Loma Vista Elementary,GR46,5.2,1.1,27661426026553,6,47.37,25.97
+27,66142,6026561,Monterey,Salinas City Elementary,Los Padres Elementary,GR46,5.8,3.6,27661426026561,6,33.05,19.49
+27,66142,6026579,Monterey,Salinas City Elementary,Mission Park Elementary,GR46,11.8,3.3,27661426026579,6,48.31,30.51
+27,66142,6026587,Monterey,Salinas City Elementary,Monterey Park Elementary,GR46,13.2,2.9,27661426026587,6,27.78,12.50
+27,66142,6026595,Monterey,Salinas City Elementary,Natividad Elementary,GR46,6.8,2.4,27661426026595,6,26.53,22.45
+27,66142,6026603,Monterey,Salinas City Elementary,Roosevelt Elementary,GR46,11.6,4.2,27661426026603,6,23.66,5.38
+27,66142,6026611,Monterey,Salinas City Elementary,Sherwood Elementary,GR46,4.4,1.9,27661426026611,6,29.77,18.32
+27,66142,6066963,Monterey,Salinas City Elementary,University Park Elementary,GR46,10.4,4.4,27661426066963,6,37.04,20.37
+27,66142,6109177,Monterey,Salinas City Elementary,Laurel Wood Elementary,GR46,4.3,3.5,27661426109177,6,51.69,32.58
+27,66191,0000000,Monterey,Santa Rita Union Elementary,District Office,GR78,11.2,2.1,27661910000000,8,48.35,25.06
+27,66191,0107391,Monterey,Santa Rita Union Elementary,New Republic Elementary,GR46,8.9,0.8,27661910107391,5,47.32,31.25
+27,66191,6026652,Monterey,Santa Rita Union Elementary,La Joya Elementary,GR46,6.5,4.0,27661916026652,5,41.84,13.27
+27,66191,6026660,Monterey,Santa Rita Union Elementary,Santa Rita Elementary,GR46,3.8,0.3,27661916026660,5,35.51,9.35
+27,66191,6120224,Monterey,Santa Rita Union Elementary,McKinnon,GR46,12.7,0.9,27661916120224,5,27.16,11.39
+27,66191,0122911,Monterey,Santa Rita Union Elementary,Bolsa Knolls Middle,GR78,11.0,1.2,27661910122911,8,48.39,24.39
+27,66191,6102925,Monterey,Santa Rita Union Elementary,Gavilan View Middle,GR78,11.4,5.7,27661916102925,8,48.30,25.99
+27,66225,0000000,Monterey,Spreckels Union Elementary,District Office,GR78,9.6,0.3,27662250000000,8,61.16,43.70
+27,66225,6026694,Monterey,Spreckels Union Elementary,Spreckels Elementary,GR46,4.4,0.0,27662256026694,5,59.62,40.95
+27,66225,6115182,Monterey,Spreckels Union Elementary,Buena Vista Middle,GR78,9.6,0.9,27662256115182,8,61.16,43.70
+27,66233,0000000,Monterey,Washington Union Elementary,District Office,GR78,3.4,0.9,27662330000000,8,70.19,64.08
+27,66233,6092688,Monterey,Washington Union Elementary,Toro Park Elementary,GR13,4.5,0.0,27662336092688,3,79.76,65.48
+27,66233,6026710,Monterey,Washington Union Elementary,Washington Elementary,GR46,2.4,0.9,27662336026710,5,55.67,41.24
+27,66233,6026702,Monterey,Washington Union Elementary,San Benancio Middle,GR78,3.4,1.9,27662336026702,8,70.19,64.08

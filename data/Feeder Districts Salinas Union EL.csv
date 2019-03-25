@@ -1,0 +1,42 @@
+CountyCode,DistrictCode,SchoolCode,CountyName,DistrictName,SchoolName,gradelevel,ChronicAbsenteeismRate,Suspension Rate (Total),CDSCode,Grade,ELA,Math
+27,65961,0000000,Monterey,Alisal Union,District Office,SE,8.2,1.2,27659610000000,6,17.63,6.65
+27,65961,0127456,Monterey,Alisal Union,Monte Bella Elementary,SE,7.9,0.6,27659610127456,6,24.07,3.70
+27,65961,6025977,Monterey,Alisal Union,Alisal Community,SE,3.6,0.9,27659616025977,6,18.06,8.33
+27,65961,6025985,Monterey,Alisal Union,Bardin Elementary,SE,6.6,0.0,27659616025985,6,23.94,12.68
+27,65961,6025993,Monterey,Alisal Union,Fremont Elementary,SE,7.4,0.8,27659616025993,6,15.46,4.12
+27,65961,6026009,Monterey,Alisal Union,Jesse G. Sanchez Elementary,SE,8.1,1.6,27659616026009,6,15.60,4.59
+27,65961,6101802,Monterey,Alisal Union,Frank Paul Elementary,SE,5.6,1.1,27659616101802,6,20.21,4.26
+27,65961,6106959,Monterey,Alisal Union,Virginia Rocca Barton Elementary,SE,8.9,0.7,27659616106959,6,24.64,8.70
+27,65961,6109466,Monterey,Alisal Union,John E. Steinbeck Elementary,SE,14.8,1.3,27659616109466,6,21.43,7.14
+27,65961,6113542,Monterey,Alisal Union,Cesar E. Chavez Elementary,SE,10.8,2.4,27659616113542,6,13.54,8.33
+27,65961,6115232,Monterey,Alisal Union,Creekside Elementary,SE,16.0,4.9,27659616115232,6,7.50,10.00
+27,65961,6117691,Monterey,Alisal Union,Oscar F. Loya Elementary,SE,13.1,1.3,27659616117691,6,7.50,2.44
+27,65961,6119663,Monterey,Alisal Union,Oasis Charter Public,SE,1.1,0.0,27659616119663,NA,NA,NA
+27,65961,6120273,Monterey,Alisal Union,"Dr. Martin Luther King, Jr. Academy",SE,7.6,1.0,27659616120273,6,17.07,7.32
+27,66142,0000000,Monterey,Salinas City Elementary,District Office,SE,8.0,2.5,27661420000000,6,8.55,3.37
+27,66142,0108068,Monterey,Salinas City Elementary,Boronda Meadows,SE,9.5,1.6,27661420108068,6,3.51,1.75
+27,66142,0132407,Monterey,Salinas City Elementary,Boronda Elementary,SE,5.6,0.0,27661420132407,NA,NA,NA
+27,66142,6026520,Monterey,Salinas City Elementary,El Gabilan Elementary,SE,10.5,3.7,27661426026520,6,3.70,1.85
+27,66142,6026538,Monterey,Salinas City Elementary,Henry F. Kammann Elementary,SE,9.3,3.0,27661426026538,6,8.33,0.00
+27,66142,6026546,Monterey,Salinas City Elementary,Lincoln Elementary,SE,4.4,2.7,27661426026546,6,16.67,5.56
+27,66142,6026553,Monterey,Salinas City Elementary,Loma Vista Elementary,SE,6.2,0.7,27661426026553,6,19.44,5.41
+27,66142,6026561,Monterey,Salinas City Elementary,Los Padres Elementary,SE,4.6,3.7,27661426026561,6,12.96,7.41
+27,66142,6026579,Monterey,Salinas City Elementary,Mission Park Elementary,SE,11.9,3.9,27661426026579,6,15.38,7.69
+27,66142,6026587,Monterey,Salinas City Elementary,Monterey Park Elementary,SE,12.0,2.5,27661426026587,6,4.76,0.00
+27,66142,6026595,Monterey,Salinas City Elementary,Natividad Elementary,SE,6.3,1.7,27661426026595,6,2.08,6.25
+27,66142,6026603,Monterey,Salinas City Elementary,Roosevelt Elementary,SE,11.9,4.0,27661426026603,6,8.51,0.00
+27,66142,6026611,Monterey,Salinas City Elementary,Sherwood Elementary,SE,5.9,1.4,27661426026611,6,7.95,3.41
+27,66142,6066963,Monterey,Salinas City Elementary,University Park Elementary,SE,17.4,4.7,27661426066963,6,7.69,0.00
+27,66142,6109177,Monterey,Salinas City Elementary,Laurel Wood Elementary,SE,3.9,2.5,27661426109177,6,16.67,5.56
+27,66191,0000000,Monterey,Santa Rita Union Elementary,District Office,SE,9.1,1.8,27661910000000,8,9.90,5.88
+27,66191,0107391,Monterey,Santa Rita Union Elementary,New Republic Elementary,SE,11.5,0.0,27661910107391,5,19.35,6.45
+27,66191,0122911,Monterey,Santa Rita Union Elementary,Bolsa Knolls Middle,SE,12.1,0.7,27661910122911,8,12.20,4.88
+27,66191,6026652,Monterey,Santa Rita Union Elementary,La Joya Elementary,SE,7.5,3.6,27661916026652,5,17.50,2.50
+27,66191,6026660,Monterey,Santa Rita Union Elementary,Santa Rita Elementary,SE,4.4,0.4,27661916026660,5,13.11,1.64
+27,66191,6102925,Monterey,Santa Rita Union Elementary,Gavilan View Middle,SE,12.2,6.4,27661916102925,8,8.33,6.56
+27,66191,6120224,Monterey,Santa Rita Union Elementary,McKinnon,SE,13.9,0.7,27661916120224,5,5.26,0.00
+27,66225,0000000,Monterey,Spreckels Union Elementary,District Office,SE,6.8,0.0,27662250000000,NA,NA,NA
+27,66225,6026694,Monterey,Spreckels Union Elementary,Spreckels Elementary,SE,6.9,0.0,27662256026694,NA,NA,NA
+27,66225,6115182,Monterey,Spreckels Union Elementary,Buena Vista Middle,SE,6.3,0.0,27662256115182,NA,NA,NA
+27,66233,0000000,Monterey,Washington Union Elementary,District Office,SE,8.3,0.0,27662330000000,NA,NA,NA
+27,66233,6092688,Monterey,Washington Union Elementary,Toro Park Elementary,SE,11.8,0.0,27662336092688,NA,NA,NA
